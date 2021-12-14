@@ -1,6 +1,6 @@
 baseURL = 'https://naknaknak.github.io/hugo/'
 languageCode = 'en-us'
-title = 'Naknaknak's blog'
+title = "Naknaknak's blog"
 theme = 'hugo-ink'
 publishDir = 'docs'
 canonifyurls = true

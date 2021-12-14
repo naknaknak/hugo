@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Naknaknak&#39;s blog</title>
-    <link>https://naknaknak.github.io/hugo/</link>
-    <description>Recent content on Naknaknak&#39;s blog</description>
+    <title>Posts on Naknaknak&#39;s blog</title>
+    <link>https://naknaknak.github.io/hugo/posts/</link>
+    <description>Recent content in Posts on Naknaknak&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Dec 2021 07:11:59 +0900</lastBuildDate><atom:link href="https://naknaknak.github.io/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Dec 2021 07:11:59 +0900</lastBuildDate><atom:link href="https://naknaknak.github.io/hugo/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>첫 휴고 포스트</title>
       <link>https://naknaknak.github.io/hugo/posts/my-first-post/</link>
