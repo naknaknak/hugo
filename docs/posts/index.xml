@@ -6,7 +6,22 @@
     <description>Recent content in Posts on Naknaknak&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Dec 2021 07:11:59 +0900</lastBuildDate><atom:link href="https://naknaknak.github.io/hugo/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Dec 2021 20:46:47 +0900</lastBuildDate><atom:link href="https://naknaknak.github.io/hugo/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hugo 페이지 만들고 github pages에서 퍼블리싱하기</title>
+      <link>https://naknaknak.github.io/hugo/posts/making-hugo-page/</link>
+      <pubDate>Wed, 22 Dec 2021 20:46:47 +0900</pubDate>
+      
+      <guid>https://naknaknak.github.io/hugo/posts/making-hugo-page/</guid>
+      <description>hugo 첫 포스팅 내용은 역시 이게 제일 적절하지 싶어서 써 봅니다.
+hugo에 대해서 설명부터 살짝 하자면 정적 페이지 생성기라고 보시면 됩니다. 정적 페이지가 뭔지에 대해선 넘어가겠습니다.
+hugo quickstart guide 먼저 여기 참조하면서 진행하면 되겠습니다.
+윈도우판은 인스톨 방법만 조금 다릅니다. powershell쓰시고 chocolatey로 인스톨하면 됩니다.
+choco install hugo -confirm 또는 choco install hugo-extended -confirm 으로 인스톨하시면 됩니다.
+그다음 원하는 폴더 안에 /bin, /sites를 만들어주시고 sites폴더 내에서
+C:\Hugo\Sites&amp;gt; hugo new site example.com 하시면 example.</description>
+    </item>
+    
     <item>
       <title>첫 휴고 포스트</title>
       <link>https://naknaknak.github.io/hugo/posts/my-first-post/</link>
