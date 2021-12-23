@@ -5,4 +5,4 @@ theme = 'hugo-ink'
 publishDir = 'docs'
 canonifyurls = true
 [params]
-  mode = dark
+  mode = 'dark'
