@@ -4,3 +4,4 @@ title = "Naknaknak's blog"
 theme = 'hugo-ink'
 publishDir = 'docs'
 canonifyurls = true
+params.mode = dark
