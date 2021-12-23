@@ -1,8 +1,9 @@
 baseURL = 'https://naknaknak.github.io/hugo/'
 languageCode = 'en-us'
 title = "Naknaknak's blog"
-theme = 'hugo-ink'
+theme = 'm10c'
 publishDir = 'docs'
 canonifyurls = true
 [params]
-  mode = 'dark'
+    author = 'naknaknak'
+    description = 'none'
